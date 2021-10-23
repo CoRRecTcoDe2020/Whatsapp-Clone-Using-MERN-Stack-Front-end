@@ -6,7 +6,7 @@ MERN stack is a web development framework. It consists of MongoDB, ExpressJS, Re
 This is a simple Whatsapp-Clone. You can develop it and make it better.
 Thanks for taking the time. 💗💗💗
 
-(https://pages.github.com/)
+[https://pages.github.com/]
 
 ### `Yarn start`
 
