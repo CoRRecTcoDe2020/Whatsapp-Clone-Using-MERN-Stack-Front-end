@@ -1,4 +1,4 @@
-``Hi Friends 👋``
+**Hi Friends 👋**
 
 I'm Created a Whatsapp-Clone Using MERN Stack!
 If You don't know what is the MERN Stack,
