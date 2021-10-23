@@ -13,9 +13,9 @@ function App() {
       setMessages(response.data);
     });
   }, []);
-
+ 
   useEffect(() => {
-    const pusher = new Pusher("2503a847b42029ae37ef", {
+    const pusher = new Pusher("", {
       cluster: "eu",
     });
 
